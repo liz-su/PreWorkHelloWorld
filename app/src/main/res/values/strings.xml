@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="liz_intro">Hello World! I\'m Liz. I love learning about design patterns.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
